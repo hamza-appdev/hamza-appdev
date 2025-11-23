@@ -1,8 +1,8 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/hamza-appdeveloper/hamza-appdeveloper/blob/main/Android%20App.jpg" 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U1aW90ZW5tOGMxZnZsZWd5eGtxcTc4aHVmZG92MXFuZ2Q1djM2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" 
        alt="MasterHead" 
-       width="800" 
+       width="600" 
        style="border-radius:20px;"/>
 </p>
 
@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **Android apps using Kotlin & Jetpack Compose**
 - 🌱 I’m learning **Clean Architecture & advanced Android security**
 - 💬 Technologies **Kotlin, Compose, Firebase, REST APIs, Retrofit**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/hamza-appdeveloper/)  <a href="mailto:hamzasajjad4818@gmail.com">Gmail</a>**
+- 📫 How to reach me:&nbsp; **[LinkedIn](https://www.linkedin.com/in/hamza-appdeveloper/) &nbsp;  <a href="mailto:hamzasajjad4818@gmail.com">Gmail</a>**
   <br>
   <br>
   <br>
