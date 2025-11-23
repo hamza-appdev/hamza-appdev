@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U1aW90ZW5tOGMxZnZsZWd5eGtxcTc4aHVmZG92MXFuZ2Q1djM2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" 
        alt="MasterHead" 
-       width="600" 
+       width="500" 
        height ="400"
        style="border-radius:20px;"/>
 </p>
